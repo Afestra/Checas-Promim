@@ -1,0 +1,67 @@
+================================================================================
+END USER LICENSE AGREEMENT (EULA) & TERMS OF USE
+LIMANTA CHECAS PROMIM TYPEFACE FAMILY
+================================================================================
+Foundry: Limanta Checas Type Foundry
+Author: Arpit Bharadwaj
+Store: https://arpitbharadwaj6.gumroad.com/l/limantapromim
+Contact: arpitbharadwaj16@gmail.com
+Effective Date: October 2026
+================================================================================
+
+By downloading, installing, embedding, or using Limanta Checas Promim (the "Font Software"), 
+you agree to be bound by the terms and conditions of this End User License Agreement (EULA).
+
+--------------------------------------------------------------------------------
+1. FREE DEMO & PERSONAL USE LICENSE (DAFONT / FREE TRIAL)
+--------------------------------------------------------------------------------
+• You are granted a non-exclusive, non-transferable license to use the demo font files 
+  for personal, educational, non-commercial, and testing purposes only.
+• YOU MAY NOT:
+  - Use the demo font in any commercial project, client work, or paid commission.
+  - Use the font in monetized YouTube videos, streaming overlays, or social media ads.
+  - Embed the font in any commercial website, mobile/desktop application, or game.
+  - Use the font for company branding, corporate logos, or commercial merchandise.
+  - Resell, redistribute, sublicense, modify, rename, or reverse-engineer the font.
+
+--------------------------------------------------------------------------------
+2. COMMERCIAL LICENSING TIERS (AVAILABLE ON GUMROAD)
+--------------------------------------------------------------------------------
+For any commercial application, you must purchase the appropriate commercial tier:
+
+A. PERSONAL / INDIE LICENSE ($29)
+   - Permitted for 1 user across personal portfolios, student work, and indie projects.
+   - Non-commercial display and personal design exploration.
+
+B. COMMERCIAL & WEB LICENSE ($79) - MOST POPULAR
+   - Licensed for 1 company or commercial entity.
+   - Unlimited print, merchandise, digital marketing, social media ads, and branding.
+   - Full Webfont embedding for commercial websites and SaaS landing pages.
+   - Logo design, marketing graphics, and broadcast/video production.
+
+C. APP, SOFTWARE & OS EMBEDDING LICENSE ($249)
+   - Grants rights to embed font files (.ttf, .otf, .woff2) into mobile applications (iOS/Android),
+     desktop software (macOS/Windows/Linux), game engines (Unity/Unreal), or OS distros.
+   - Unlimited worldwide users and installations for the licensed application.
+
+--------------------------------------------------------------------------------
+3. INTELLECTUAL PROPERTY RIGHTS
+--------------------------------------------------------------------------------
+• The Font Software, glyph designs, kerning tables, rasterization curves, and trademarks 
+  remain the exclusive intellectual property of Arpit Bharadwaj and Limanta Checas Type Foundry.
+• This agreement grants a license to use the Font Software, not an ownership transfer of the IP.
+
+--------------------------------------------------------------------------------
+4. WARRANTY & LIABILITY
+--------------------------------------------------------------------------------
+• The Font Software is provided "AS IS" without warranty of any kind, express or implied.
+• Limanta Checas Type Foundry shall not be liable for any damages arising out of the use 
+  or inability to use the Font Software.
+
+--------------------------------------------------------------------------------
+5. UPGRADES & PURCHASING
+--------------------------------------------------------------------------------
+To upgrade your license or purchase commercial rights:
+Official Store: https://arpitbharadwaj6.gumroad.com/l/limantapromim
+Inquiries / Enterprise Licensing: arpitbharadwaj16@gmail.com
+================================================================================

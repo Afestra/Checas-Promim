@@ -1,0 +1,40 @@
+# Ignore all commercial full font weights
+LimantaChecasPromim-Light.ttf
+LimantaChecasPromim-Light.woff2
+LimantaChecasPromim-Semilight.ttf
+LimantaChecasPromim-Semilight.woff2
+LimantaChecasPromim-Regular.ttf
+LimantaChecasPromim-Regular.woff2
+LimantaChecasPromim-Medium.ttf
+LimantaChecasPromim-Medium.woff2
+LimantaChecasPromim-SemiBold.ttf
+LimantaChecasPromim-SemiBold.woff2
+LimantaChecasPromim-Bold.ttf
+LimantaChecasPromim-Bold.woff2
+
+# Ignore all specimens, stylesheets, and HTML demos
+*.html
+*.css
+specimen.html
+limanta-checas-promim.css
+embedded-fonts.css
+
+# Ignore full commercial archives and demo submission zips
+Limanta-Checas-Promim-Font-Family.zip
+Limanta-Checas-Font-Family.zip
+Limanta_Checas_Promim_Demo.zip
+
+# Ignore local build scripts and caches
+build_landing.py
+build_opensource_zip.py
+build_opensource_demo.py
+__pycache__/
+*.pyc
+
+# Allow the opensource zip, demo font, docs, and cover images
+!opensource.zip
+!LimantaChecasPromim-Demo.ttf
+!README.md
+!EULA_LICENSE_AGREEMENT.txt
+!promim-cover.png
+!promim-thumbnail.png
